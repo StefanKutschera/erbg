@@ -1,5 +1,5 @@
 # Economy Random Bit Generator (ERBG)
-##### Master Thesis by Stefan Kutschera
+##### Master's Thesis by Stefan Kutschera
 
 ## Abstract
 The aim of this Master Thesis at hand is to construct and evaluate a Random Number Generator (RNG), based on entropy
@@ -104,10 +104,10 @@ this Master Thesis the first ~3250 bits where '0' which was the reason for dumpi
 │   │   └── erbg_java_standalone  
 │   └── Java  
 └── thesis				[Sources of Master Thesis] NOT INCUDED WITHIN PUBLIC GIT  
-      ├── chapters  
-      ├── documents  
-      ├── images  
-      └── src  
+│   ├── chapters  
+│   ├── documents  
+│   ├── images  
+│   └── src  
 └── readme [sources for README.md]  
 Master_Thesis_ERBG_Kutschera_printversion.pdf [Master Thesis]
 
