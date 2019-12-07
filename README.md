@@ -54,7 +54,7 @@ this Master Thesis the first ~3250 bits where '0' which was the reason for dumpi
 # Filestructure
 
 .  
-├── data_and_test			[Empirical gathered material (raw, extracted,testresults) during tests] 
+├── data_and_test			[Empirical gathered material (raw, extracted,testresults) during tests]\
 "data_and_test" NOT INCUDED WITHIN PUBLIC GIT  
 │   ├── all_tests  
 │   ├── tools  
@@ -75,7 +75,7 @@ this Master Thesis the first ~3250 bits where '0' which was the reason for dumpi
 │       └── qrng_quantis_run  
 │           ├── AlgorithmTesting_Binary  
 │           └── AlgorithmTesting_ERBG  
-├── literature_docs			[Documents and literature used within the Master Thesis] 
+├── literature_docs			[Documents and literature used within the Master Thesis]\
 "literature_docs" NOT INCUDED WITHIN PUBLIC GIT 
 │   ├── bitflipped  
 │   ├── docs  
@@ -105,7 +105,7 @@ this Master Thesis the first ~3250 bits where '0' which was the reason for dumpi
 │   │   ├── erbg_android  
 │   │   └── erbg_java_standalone  
 │   └── Java  
-└── thesis				[Sources of Master Thesis] 
+└── thesis				[Sources of Master Thesis]\
 "thesis" NOT INCUDED WITHIN PUBLIC GIT  
 │   ├── chapters  
 │   ├── documents  
