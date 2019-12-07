@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="25dp">
+
+    <TextView
+        android:id="@+id/txtLabelFileName"
+        android:layout_width="322dp"
+        android:layout_height="22dp"
+        android:layout_below="@+id/txtFileName"
+        android:layout_centerHorizontal="true"
+        android:text="File"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="49dp" />
+
+    <TextView
+        android:id="@+id/txtFileName"
+        android:layout_width="322dp"
+        android:layout_height="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:text="ERBG Basic Statistics "
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="71dp" />
+
+    <EditText
+        android:id="@+id/txtStats"
+        android:layout_width="322dp"
+        android:layout_height="438dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:ems="10"
+        android:inputType="none|textMultiLine"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="109dp" />
+
+</RelativeLayout>

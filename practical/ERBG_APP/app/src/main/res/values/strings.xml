@@ -1,0 +1,16 @@
+<resources>
+    <!-- <string name="app_name">ERBG</string> -->
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">In order to generate and store randomness from video and audio permission for camera and audio recording is needed as well as saving it to the device.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="mode_audio">Audio Mode</string>
+    <string name="mode_video">Video Mode</string>
+    <string name="mode_picture">Picture Mode</string>
+
+    <string name="take_picture">Take Picture</string>
+
+    <string name="Result">Result</string>
+</resources>
