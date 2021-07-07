@@ -1,5 +1,6 @@
 # Economy Random Bit Generator (ERBG)
 ##### Master's Thesis by Stefan Kutschera
+DOI: [10.13140/RG.2.2.21934.43848](http://dx.doi.org/10.13140/RG.2.2.36286.82245)
 
 ## Abstract
 The aim of this Master Thesis at hand is to construct and evaluate a Random Number Generator (RNG), based on entropy
